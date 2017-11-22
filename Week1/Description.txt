@@ -1,0 +1,28 @@
+git config:
+sets configuration values for your user name, email, gbg ker 
+git init:
+initializes a git repository- creates the init .git directory in a new or in an existing project.
+git clone:
+makes a git repository copy from a remote source. also adds the origin location as a remote.
+git add:
+adds file changes in your working directory to your index.
+git rm:
+removes files from your index and your working directory so theu will not be tracked.
+git commit -m:
+takes all of the changes written in the index, create a new commit object pointing to it.
+git status:
+shows you the status of files in the index versus the working directory.
+git branch:
+lits existing branches.
+git merge:
+merge one or more branches into your current branch and automatically creates a new commit.
+git pull:
+fetches all the files from the remote repository and advance its branches.
+git push:
+pushes all the modifided local objects to the remote repository and advance its branches.
+git remote:
+shows all the remote versions of your repository.
+git log:
+shows a listing of commits on a branch including the corresponding details.
+git diff:
+generates patch files or statistics of differences between paths or files in your repository.
